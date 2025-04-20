@@ -38,7 +38,7 @@ This repository supports learning and teaching of **Plant Design and Process Eng
 🌐 [YouTube – Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 
-
+<!--
 # 🧪 Process Engineering Economics
 - [Discounted Cash Flow (DCF)  Plant Design and Economics ](https://youtube.com/shorts/DBS0UibUWDc)
 - [Payback Period (PBP) Plant Design and Economics](https://youtube.com/shorts/NDpr4vij8ug)
@@ -49,6 +49,6 @@ This repository supports learning and teaching of **Plant Design and Process Eng
 - [Salvage Value (SV):Plant Economics Depreciation](https://youtube.com/shorts/CwGnAUQ3mXg)
 - [Book Value (BV): Plant Design and Economics](https://youtube.com/shorts/0GHa4Zuj5lw)
 - [Depreciation Methods ](https://youtube.com/shorts/7vGUeJZteSI)
-- [Process economics & Cost Estimation ](https://youtube.com/shorts/vHF8SOSxcdk)
+- [Process economics & Cost Estimation ](https://youtube.com/shorts/vHF8SOSxcdk)-->
 
 
