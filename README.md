@@ -4,7 +4,12 @@ This repository supports learning and teaching of **Plant Design and Process Eng
  
 📺 YouTube Playlist: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
----
+## 🏗️ GATE Chemical Engineering Syllabus:  Plant Design and Economics
+
+Principles of process economics and cost estimation including depreciation and total annualized 
+cost, cost indices, rate of return, payback period, discounted cash flow, optimization in process 
+design and sizing of chemical engineering equipments such as heat exchangers and multistage 
+contactors.
 
 ## 🎥 YouTube Shorts for Quick Concept Review
 
