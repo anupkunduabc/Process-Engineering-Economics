@@ -9,6 +9,5 @@
 - [Book Value (BV): Plant Design and Economics](https://youtube.com/shorts/0GHa4Zuj5lw)
 - [Depreciation Methods ](https://youtube.com/shorts/7vGUeJZteSI)
 - [Process economics & Cost Estimation ](https://youtube.com/shorts/vHF8SOSxcdk)
-- 
-- 
+
 
